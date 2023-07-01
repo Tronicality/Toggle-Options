@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Evades Sandbox Toggle Options
-// @version      1.0
+// @version      1.1
 // @description  Ew UI, just blocking my way 24/7
 // @author       Br1h
 // @match        https://ravel.turudu.repl.co/
