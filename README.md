@@ -1,11 +1,11 @@
 # Toggle Options
- Made with Tampermonkey for Evades Sandbox. Users will now be able to hide stuff like hero cards.
+Made with Tampermonkey for Evades Sandbox. Users will now be able to hide stuff like hero cards.
   
 To make it work: 
 
 1. Copy this:
 <pre>
-// ==UserScript==  
+// ==UserScript==
 // @name         Evades Sandbox Toggle Options
 // @version      1.0
 // @description  Ew UI, just blocking my way 24/7
@@ -21,4 +21,4 @@ To make it work:
 2. Go to Tampermonkey and create a new script paste in then save
 3. On the file tab (the left) check for updates and after updating you should be good  
 
-If you want to find me just @Br1h on discord and I should be there. I don't mind pings
+If you want to find me my tag on discord is .realityy or just look for Br1h on the evades discord... I don't mind pings.
