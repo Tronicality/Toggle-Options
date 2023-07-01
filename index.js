@@ -6,8 +6,8 @@
 // @match        https://ravel.turudu.repl.co/
 // @icon         https://www.google.com/s2/favicons?domain=evades.io
 // @run-at       document-end
-// @downloadURL  https://github.com/Tronicality/Toggle-Options
-// @updateURL    https://github.com/Tronicality/Toggle-Options
+// @downloadURL  https://raw.githubusercontent.com/Tronicality/Toggle-Options/main/index.js
+// @updateURL    https://raw.githubusercontent.com/Tronicality/Toggle-Options/main/index.js
 // @grant        none
 // ==/UserScript==
 
