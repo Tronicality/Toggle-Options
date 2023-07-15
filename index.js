@@ -4,6 +4,7 @@
 // @description  Ew UI, just blocking my way 24/7
 // @author       Br1h
 // @match        https://ravel.turudu.repl.co/
+// @match        https://ravel-beta.sonicexe66.repl.co/
 // @icon         https://www.google.com/s2/favicons?domain=evades.io
 // @run-at       document-end
 // @downloadURL  https://raw.githubusercontent.com/Tronicality/Toggle-Options/main/index.js
