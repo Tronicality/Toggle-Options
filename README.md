@@ -19,6 +19,6 @@ To make it work:
 // ==/UserScript==
 </pre>
 2. Go to Tampermonkey and create a new script paste in then save
-3. On the file tab (the left) check for updates and after updating you should be good  
+3. Go back onto the script, on the file tab (the left) check for updates and after updating you should be good  
 
 If you want to find me my tag on discord is .realityy or just look for Br1h on the evades discord... I don't mind pings.
